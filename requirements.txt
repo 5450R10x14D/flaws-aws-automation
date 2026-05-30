@@ -1,0 +1,5 @@
+requests
+pwntools
+colorama
+beautifulsoup4
+pexpect
