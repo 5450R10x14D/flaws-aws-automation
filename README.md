@@ -65,6 +65,8 @@ aws sts get-caller-identity
 
 ## Uso del Script
 
+De momento se debe cambiar el nombre de usuario IAM de forma manual en las lineas 92 96 101 119 124 128, cambiar "user_test" por su nombre de perfil actual
+
 Una vez activado el entorno virtual y configurado el CLI, ejecute:
 
 ```bash
